@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\Kozyrev_PR2\bin\Debug\net7.0\Kozyrev_PR2.exe
+C:\Users\student\Desktop\Kozyrev_PR2\bin\Debug\net7.0\Kozyrev_PR2.deps.json
+C:\Users\student\Desktop\Kozyrev_PR2\bin\Debug\net7.0\Kozyrev_PR2.runtimeconfig.json
+C:\Users\student\Desktop\Kozyrev_PR2\bin\Debug\net7.0\Kozyrev_PR2.dll
+C:\Users\student\Desktop\Kozyrev_PR2\bin\Debug\net7.0\Kozyrev_PR2.pdb
+C:\Users\student\Desktop\Kozyrev_PR2\obj\Debug\net7.0\Kozyrev_PR2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Kozyrev_PR2\obj\Debug\net7.0\Kozyrev_PR2.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Kozyrev_PR2\obj\Debug\net7.0\Kozyrev_PR2.AssemblyInfo.cs
+C:\Users\student\Desktop\Kozyrev_PR2\obj\Debug\net7.0\Kozyrev_PR2.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Kozyrev_PR2\obj\Debug\net7.0\Kozyrev_PR2.dll
+C:\Users\student\Desktop\Kozyrev_PR2\obj\Debug\net7.0\refint\Kozyrev_PR2.dll
+C:\Users\student\Desktop\Kozyrev_PR2\obj\Debug\net7.0\Kozyrev_PR2.pdb
+C:\Users\student\Desktop\Kozyrev_PR2\obj\Debug\net7.0\Kozyrev_PR2.genruntimeconfig.cache
+C:\Users\student\Desktop\Kozyrev_PR2\obj\Debug\net7.0\ref\Kozyrev_PR2.dll
